@@ -1,5 +1,5 @@
 # Generated with JReleaser 1.8.0 at 2023-10-11T00:49:51.321413524Z
-FROM azul/zulu-openjdk-alpine:8-jre
+FROM azul/zulu-openjdk-alpine:11-jre
 
 LABEL "org.opencontainers.image.title"="riot"
 LABEL "org.opencontainers.image.description"="Get data in and out of Redis with RIOT"
